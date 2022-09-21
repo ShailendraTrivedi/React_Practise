@@ -84,7 +84,7 @@ const Menu = [
   {
     id: 10,
     image: "../images/samosa.jpg",
-    name: "Masala Dosa",
+    name: "Masala Mirch Dosa",
     category: "Mid",
     price: "100₹",
     description:
